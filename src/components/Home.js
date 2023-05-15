@@ -7,8 +7,9 @@ import { Element } from 'react-scroll';
 
 function Home() {
   return (
-    <div>
+    <div className="prose container mx-auto">
       <Element id="about"><About /></Element>
+      <div className="divider"></div> 
       <Element id="experience"><Experience /></Element>
       <Element id="work"><Work /></Element>
       <Element id="contact"><Contact /></Element>
