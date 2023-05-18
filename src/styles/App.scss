@@ -1,0 +1,32 @@
+@import './colors.scss';
+
+.section {
+  width: 170vh;
+  padding: 20px 100px;
+}
+
+h1 {
+  text-align: center;
+  margin: 70px 0;
+  perspective: 500px;
+}
+
+
+p {
+  font-size: 12px !important;
+  text-align: justify;
+  padding-bottom: 10px;
+  margin-top: 0;
+}
+
+#navbar {
+  position: fixed;
+  background-color: $light-blue;
+  border-bottom: .5px solid gray;
+  color: $light-maroon;
+  z-index: 10;
+}
+
+.keyword {
+  color: $title-keyword;
+}
