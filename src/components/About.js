@@ -3,14 +3,14 @@ import React from 'react';
 function About() {
   return (
     <div className="px-10 section">
-      <h2 className="mt-20">
-        Hi,
-      </h2>
-      <h1>I'm <span className="font-black">Alessia</span></h1>
-      <h2>
-        and I am a <span className="font-bold">Web Developer</span>.
-      </h2>
-
+      <div className="py-20">
+        <h2 className="mt-20">
+          Hi, I'm <span className="font-black">Alessia</span>.
+        </h2>
+        <h1 className="me-20 pe-20 text-start">
+          I am a <span className="font-black keyword">Web Developer</span> and I make websites that people love.
+        </h1>
+      </div>
       <div>
         <div className="flex row">
           <div className="grid grid-cols-2">

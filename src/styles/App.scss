@@ -1,11 +1,12 @@
+@import './colors.scss'
 .section {
   width: 170vh;
-  padding: 20px 40px;
+  padding: 20px 100px;
 }
 
 h1 {
   text-align: center;
-  margin: 70px !important;
+  margin: 70px 0;
   perspective: 500px;
 }
 
@@ -21,4 +22,8 @@ p {
   position: fixed;
   background-color: pink;
   border-bottom: .5px solid gray;
+}
+
+.keyword {
+  color: $title-keyword;
 }
