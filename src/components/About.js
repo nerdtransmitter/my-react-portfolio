@@ -18,6 +18,7 @@ function About() {
               <p>
                 I am proficient in both Backend and Frontend skills like React.js, Tailwind CSS, SaSS, Css3 and many more.
               </p>
+              <p>In my spare time, I like to draw, play the guitar or ukulele, read and organize any and everything on Notion.</p>
             {/* Personal story : Dedicate a page to the developer's personal story, highlighting her journey into web development, her motivations, and any challenges she overcame. Make it relatable and engaging to create a connection with visitors. */}
 
             {/* Education and Certifications: Include information about the developer's educational background, relevant certifications, and any boot camps or online courses completed. Highlight notable achievements or projects completed during these learning experiences. */}
