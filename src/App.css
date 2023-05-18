@@ -1,17 +1,20 @@
 .section {
-  width: 150vh;
+  width: 170vh;
   padding: 20px 40px;
 }
 
 h1 {
   text-align: center;
   margin: 70px !important;
+  perspective: 500px;
 }
 
 
 p {
   font-size: 12px !important;
   text-align: justify;
+  padding-bottom: 10px;
+  margin-top: 0;
 }
 
 #navbar {
